@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Tharuka! 👋</h1>
+  <p>Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast from Sri Lanka. Here, you'll find a collection of my projects, contributions, and experiments. Let's dive into the world of code together!</p>
+</div>
 
-<!--
-**tharukanandasiri/tharukanandasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tharukanandasiri" alt="Profile Views">
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tharukanandasiri&theme=omni" alt="GitHub Streak">
+  </p>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharukanandasiri&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Languages">   .
+  </p>
+
+ <p align="center">
+    If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/tharuka-nandasiri/">LinkedIn</a>.
+ </p>
